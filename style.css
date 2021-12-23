@@ -1,0 +1,128 @@
+.body_backgorund 
+{
+    background-image:url(hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg);
+    background-position:center;
+    background-size:cover;
+} 
+
+.background_image {
+    background-image:url(istockphoto-1136810581-612x612.jpg.jpg);
+    background-position: center; 
+    background-size: cover;
+}
+
+#ani {
+    color: burlywood; 
+    font-style: italic; 
+    font-size: 50;
+    text-align: center;
+} 
+
+button {
+    height: 50;
+    width: 120; 
+    color:black; 
+    background-color: orange;
+} 
+
+#birth { 
+
+    color: aqua; 
+    font-size: 50;
+} 
+
+#day {
+    height: 50;
+    width: 120; 
+    color:black; 
+    background-color: orange;
+} 
+
+#wed {
+    font-size: 50; 
+    color: yellow; 
+} 
+
+#wedd {
+height: 50;
+width: 120; 
+color:black; 
+background-color: orange; 
+} 
+
+
+#exam { 
+
+    height: 50;
+    width: 120; 
+    color:black; 
+    background-color: red;
+}
+ 
+#success { 
+
+    color: green; 
+    font-style: italic; 
+    font-size: 50;
+    text-align: center;
+} 
+
+#job { 
+
+    color: green; 
+    font-style: italic; 
+    font-size: 50;
+    text-align: center; 
+} 
+
+
+
+
+#Festival { 
+
+    color: darkblue; 
+    font-style: italic; 
+    font-size: 50;
+    text-align: center; 
+
+} 
+
+
+.background_body
+{
+    background-image:url(hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg);
+    background-position:center;
+    background-size:cover;
+}   
+
+
+
+
+
+
+#Independence { 
+
+    color: orange; 
+    font-style: italic; 
+    font-size: 50;
+    text-align: center;
+
+} 
+
+#freedom { 
+
+    height: 50;
+    width: 120; 
+    color:black; 
+    background-color: r
+
+}
+ .background {
+
+    background-image:url(hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg);
+    background-position:center;
+    background-size:cover;
+
+ }
+
+    
